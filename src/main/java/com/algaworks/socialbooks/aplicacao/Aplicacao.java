@@ -20,7 +20,6 @@ public class Aplicacao {
 			System.out.println("Livro: " + livro.getNome());
 
 		}
-
 		Livros livro = new Livros();
 
 		livro.setNome("Curso Rest Aplicado");
